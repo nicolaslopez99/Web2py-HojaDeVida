@@ -1,7 +1,7 @@
 # Web2py-HojaDeVida
 
-Brayan Ascanio 
-Felipe Velandia
+Brayan Ascanio/ 
+Felipe Velandia/
 Nicolás López
 
 ## Capturas de pantalla
